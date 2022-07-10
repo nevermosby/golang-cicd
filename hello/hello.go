@@ -2,5 +2,5 @@ package hello
 
 // Greet ... Greet from github action
 func Greet() string {
-  return "Hello GitHub Actions. https://davidlovezoe.club/wordpress/archives/tag/golang is awesome"
+  return "Hello GitHub Actions. davidlovezoe.club is awesome"
 }
